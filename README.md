@@ -1,5 +1,8 @@
 # copy-trade
+
 Copy trades from popular traders on involio.com
+
+> [Public Repo](https://github.com/tim-hub/copy-trade)
 
 
 - set up environment variables at `.env` file
